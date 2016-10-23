@@ -344,13 +344,13 @@ span{
 /*------------------------*/
 
 
-/*-----IPHONE FEATURE--------*/
+/*-----IPHONE SCREENS--------*/
 .iphone_screens{
 	border: 1px solid #f4f4f4;
 	background-color: #f5f5f8;
 }
 
-.iphone_screens .container{	width: 100%; }
+.iphone_screens .container{	overflow: hidden; }
 
 #i_screens{
 	position: relative;
