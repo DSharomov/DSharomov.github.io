@@ -915,4 +915,9 @@ input{
 		margin-right: 15px;
 		max-width: 320px;
 	}
+	.map img{
+		max-width: 650px;
+		margin-bottom: -50px;
+		margin-top: -50px;
+	}
 }
